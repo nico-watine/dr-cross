@@ -1,0 +1,22 @@
+@import "../_settings.scss";
+
+.fusion-secondary-menu {
+	ul {
+		li {
+			background: $yellow;
+
+			a {
+				color: #000;
+				font-size: rem(18);
+			}
+
+			&:hover {
+				background: $light-blue;
+
+				a {
+					color: #fff;
+				}
+			}
+		}
+	}
+}

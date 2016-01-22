@@ -1,0 +1,51 @@
+@import "../_settings.scss";
+
+.fusion-flip-boxes.no-bottom-margin {
+	margin-bottom: 0;
+
+	.flip-box-inner-wrapper {
+		min-height: none;
+
+		.flip-box-front {
+			// box-shadow: $z-2;
+			box-shadow: $z-1;
+			padding: 0 0 16px;
+
+			.flip-box-front-inner {
+				margin-top: 0 !important;
+
+				.flip-box-image {
+					img {
+						max-width: 360px;
+						width: 100%;
+						height: auto;
+					}
+				}
+			}
+		}
+
+		.flip-box-back {
+			box-shadow: $z-1;
+
+			.flip-box-back-inner {
+				margin: 0 !important;
+
+				p {
+					margin-bottom: 8px;
+				}
+			}
+		}
+	}
+}
+
+
+// what are the different kinds of cataracts
+
+// Why choose us?
+
+
+// For in-depth info about our various cataract surgery options, visit our detailed Cataract Surgical Procedures page.
+
+
+
+// cataract procedure details here

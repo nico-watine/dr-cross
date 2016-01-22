@@ -1,0 +1,26 @@
+@import "../_settings.scss";
+
+.fusion-secondary-main-menu {
+	box-shadow: $z-1 !important;
+}
+
+.fusion-main-menu > ul > li > a {
+	padding: 2px 8px;
+
+	&:hover {
+	    border-color: #22a2d7;
+	    background-color: #22a2d7;
+	    color: #fff !important;
+	}
+}
+
+.fusion-main-menu .sub-menu li a:hover {
+	color: #fff;
+}
+
+.fusion-main-menu .current-menu-ancestor > a, .fusion-main-menu .current-menu-item > a, .fusion-main-menu .current-menu-parent > a, .fusion-main-menu .current_page_item > a {
+    border-color: #22a2d7;
+    background-color: #22a2d7;
+    color: #fff !important;
+}
+

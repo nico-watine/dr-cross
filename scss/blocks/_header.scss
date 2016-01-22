@@ -1,0 +1,69 @@
+@import "../_settings.scss";
+
+$max-955: "only screen and (max-width : 955px)";
+
+.fusion-secondary-main-menu {
+	border-bottom: 5px solid #22A2D7 !important;
+}
+
+.fusion-header {
+	background-size: 780px auto;
+	background-position: center 0px !important;
+	border-bottom: 3px solid #22A2D7 !important;
+
+	@media #{$max-955} {
+		background-image: none !important;
+	}
+}
+
+.fusion-header-tagline {
+	font-size: rem(20) !important;
+	color: #444 !important;
+}
+
+#content-3-search-box {
+	// position: relative;
+	// top: -40px;
+	// left: 290px;
+}
+
+#header-medical-logos {
+	// position: relative;
+	// top: 30px;
+	margin-top: 10px;
+
+	img {
+		height: 70px;
+		width: auto;
+		margin-right: 6px;
+	}
+
+	img#aao {
+		display: block;
+		margin-bottom: 10px;
+	}
+}
+
+@media #{$max-955} {
+	.fusion-logo {
+		height: 120px !important;
+	}
+	
+	.fusion-header-content-3-wrapper {
+		position: relative;
+		top: -45px;
+	}
+
+	#header-medical-logos {
+		margin-top: 0;
+
+		img {
+			height: 45px;
+			width: auto;
+		}
+
+		img#aao {
+			display: initial;
+		}
+	}
+}

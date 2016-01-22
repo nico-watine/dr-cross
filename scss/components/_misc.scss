@@ -1,0 +1,45 @@
+@import "../_settings.scss";
+
+.fusion-testimonials.clean .author{
+	font-size:12px;
+	line-height:18px;
+	letter-spacing:2px;
+}
+
+.fusion-header-v4 .fusion-header {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+.tab-link .fusion-tab-heading {
+	color: #fff !important;
+}
+
+.tab-link:hover .fusion-tab-heading {
+	color: #000 !important;
+}
+
+.active .fusion-tab-heading {
+	color: #000 !important;
+}
+
+
+.shadow-1 {
+	box-shadow: $z-1;
+}
+
+.shadow-2 {
+	box-shadow: $z-2;
+}
+
+.shadow-3 {
+	box-shadow: $z-3;
+}
+
+.shadow-4 {
+	box-shadow: $z-4;
+}
+
+.shadow-5 {
+	box-shadow: $z-5;
+}
