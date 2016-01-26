@@ -1,0 +1,19 @@
+@import "../_settings.scss";
+
+.our-doctors-bio-box {
+	background: #fff;
+	box-shadow: $z-2;
+	border: 3px solid $light-blue;
+
+	.content-wrapper-background {
+		padding: 15px !important;
+	}
+}
+
+#cross-bio-box {
+	min-height: 235px;
+}
+
+#friedman-bio-box {
+	min-height: 235px;
+}
