@@ -1,0 +1,21 @@
+@import "../../_settings.scss";
+
+.margin-0,
+.margin-0 * {
+	margin: 0 !important;
+}
+
+.padding-0,
+.padding-0 * {
+	padding: 0 !important;
+}
+
+.margin-bottom-0 {
+	margin-bottom: 0;
+}
+
+.bottom-border-only {
+	border-top-width: 0 !important;
+	border-left-width: 0 !important;
+	border-right-width: 0 !important;
+}

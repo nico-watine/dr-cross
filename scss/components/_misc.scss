@@ -11,14 +11,35 @@
 	padding-bottom: 15px;
 }
 
-.tab-link .fusion-tab-heading {
-	color: #fff !important;
+// .tab-link .fusion-tab-heading {
+// 	color: #fff !important;
+// }
+
+// .tab-link:hover .fusion-tab-heading {
+// 	color: #000 !important;
+// }
+
+// .active .fusion-tab-heading {
+// 	color: #000 !important;
+// }
+
+.tab-link {
+	.fusion-tab-heading {
+		color: #fff !important;
+	}
+
+	&:hover {
+		border-top: 3px solid $dark-blue !important;
+
+		.fusion-tab-heading {
+			color: #000 !important;
+		}
+	}
 }
 
-.tab-link:hover .fusion-tab-heading {
-	color: #000 !important;
+.active {
+	.fusion-tab-heading {
+		color: #000 !important;
+	}
 }
 
-.active .fusion-tab-heading {
-	color: #000 !important;
-}

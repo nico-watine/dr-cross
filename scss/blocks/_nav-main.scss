@@ -24,3 +24,27 @@
     color: #fff !important;
 }
 
+.index-menu-contact-link {
+	a {
+		background-color: #fff !important;
+		color: #333 !important;
+
+		.menu-text {
+			color: #333 !important;
+		}
+	}
+
+	&:hover {
+		a {
+		    border-color: #22a2d7 !important;
+		    background-color: #22a2d7 !important;
+		    color: #fff !important;
+
+		    .menu-text {
+			    border-color: #22a2d7;
+			    background-color: #22a2d7;
+		    	color: #fff !important;
+		    }
+		}
+	}
+}
