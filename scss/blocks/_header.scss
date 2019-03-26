@@ -1,15 +1,13 @@
-@import "../_settings.scss";
-
-$max-955: "only screen and (max-width : 955px)";
+$max-955: 'only screen and (max-width : 955px)';
 
 .fusion-secondary-main-menu {
-	border-bottom: 5px solid #22A2D7 !important;
+	border-bottom: 5px solid #22a2d7 !important;
 }
 
 .fusion-header {
 	background-size: 780px auto;
-	background-position: center 0px !important;
-	border-bottom: 3px solid #22A2D7 !important;
+	background-position: center 0 !important;
+	border-bottom: 3px solid #22a2d7 !important;
 
 	@media #{$max-955} {
 		background-image: none !important;
@@ -48,7 +46,7 @@ $max-955: "only screen and (max-width : 955px)";
 	.fusion-logo {
 		height: 120px !important;
 	}
-	
+
 	.fusion-header-content-3-wrapper {
 		position: relative;
 		top: -45px;
