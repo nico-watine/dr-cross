@@ -17,6 +17,17 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_ignores/codekit-icon.png": {
+		"ft": 32768,
+		"iS": 35691,
+		"oA": 0,
+		"oAP": "/_ignores/codekit-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_ignores/dr-cross.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
@@ -314,12 +325,12 @@
 	"creationDate": 506460133,
 	"displayValue": "dr-cross",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-archer",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "/_ignores/codekit-icon.png",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerEnableIEGrid": 0,
