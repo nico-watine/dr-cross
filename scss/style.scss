@@ -6,6 +6,9 @@
 // Functions
 @import 'functions/_functions.scss';
 
+// Pages
+@import 'pages/_pages.scss';
+
 @import 'blocks/_header.scss';
 @import 'components/_typography.scss';
 @import 'components/_misc.scss';
@@ -13,6 +16,4 @@
 @import 'blocks/_nav-main.scss';
 @import 'blocks/_nav-top.scss';
 @import 'blocks/_footer.scss';
-@import 'pages/_index.scss';
-@import 'pages/_our-doctors.scss';
 @import 'components/_utility-classes.scss';

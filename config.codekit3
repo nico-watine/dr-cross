@@ -290,7 +290,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/_index.scss": {
+	"/scss/pages/_pages.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -298,12 +298,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/css/_index.css",
+		"oAP": "/scss/css/_pages.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/pages/_our-doctors.scss": {
+	"/scss/pages/index/_index.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -311,7 +311,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/css/_our-doctors.css",
+		"oAP": "/scss/pages/css/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/pages/our-doctors/_our-doctors.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/pages/css/_our-doctors.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
