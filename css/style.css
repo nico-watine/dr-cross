@@ -46,6 +46,18 @@
 
 .fusion-secondary-menu ul li:hover a { color: #fff; }
 
+.fusion-testimonials.clean .author { font-size: 12px; line-height: 18px; letter-spacing: 2px; }
+
+.fusion-header-v4 .fusion-header { padding-top: 10px; padding-bottom: 15px; }
+
+.tab-link .fusion-tab-heading { color: #fff !important; }
+
+.tab-link:hover { border-top: 3px solid #115598 !important; }
+
+.tab-link:hover .fusion-tab-heading { color: #000 !important; }
+
+.active .fusion-tab-heading { color: #000 !important; }
+
 .fusion-flip-boxes.no-bottom-margin { margin-bottom: 0; }
 
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper { min-height: none; }
@@ -62,18 +74,6 @@
 
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner p { margin-bottom: 8px; }
 
-.fusion-testimonials.clean .author { font-size: 12px; line-height: 18px; letter-spacing: 2px; }
-
-.fusion-header-v4 .fusion-header { padding-top: 10px; padding-bottom: 15px; }
-
-.tab-link .fusion-tab-heading { color: #fff !important; }
-
-.tab-link:hover { border-top: 3px solid #115598 !important; }
-
-.tab-link:hover .fusion-tab-heading { color: #000 !important; }
-
-.active .fusion-tab-heading { color: #000 !important; }
-
 .header-font { font-family: "Raleway"; }
 
 .body-font { font-family: "PTSansRegular", Arial, Helvetica, sans-serif; font-weight: normal; }
@@ -81,6 +81,14 @@
 .underlined { text-decoration: underline; }
 
 .underlined:hover { text-decoration: none; }
+
+.margin-0, .margin-0 * { margin: 0 !important; }
+
+.padding-0, .padding-0 * { padding: 0 !important; }
+
+.margin-bottom-0 { margin-bottom: 0; }
+
+.bottom-border-only { border-top-width: 0 !important; border-left-width: 0 !important; border-right-width: 0 !important; }
 
 .border-radius-0 { border-radius: 0; }
 
@@ -555,14 +563,6 @@
 .min-width-50 { min-width: 50%; }
 
 .min-width-25 { min-width: 25%; }
-
-.margin-0, .margin-0 * { margin: 0 !important; }
-
-.padding-0, .padding-0 * { padding: 0 !important; }
-
-.margin-bottom-0 { margin-bottom: 0; }
-
-.bottom-border-only { border-top-width: 0 !important; border-left-width: 0 !important; border-right-width: 0 !important; }
 
 .index-content-box .fusion-column-wrapper h3 { text-align: center; font-size: 28px; line-height: 1.5; margin-top: 0; }
 
