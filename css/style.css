@@ -1,12 +1,4 @@
-.index-content-box .fusion-column-wrapper h3 { text-align: center; font-size: 28px; line-height: 1.5; margin-top: 0; }
-
-#index-flip-boxes .flip-boxes .flip-box-back { padding: 24px 16px; }
-
-.our-doctors-bio-box .image { padding-bottom: 25px; }
-
-#cross-bio-box { min-height: 235px; }
-
-#friedman-bio-box { min-height: 235px; }
+.fusion-copyright-notice { color: #000; }
 
 .fusion-secondary-main-menu { border-bottom: 5px solid #22a2d7 !important; }
 
@@ -27,6 +19,42 @@
   #header-medical-logos { margin-top: 0; }
   #header-medical-logos img { height: 45px; width: auto; }
   #header-medical-logos img#aao { display: initial; } }
+
+.fusion-secondary-main-menu { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; }
+
+.fusion-main-menu > ul > li > a { padding: 2px 8px; }
+
+.fusion-main-menu > ul > li > a:hover { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
+
+.fusion-main-menu .sub-menu li a:hover { color: #fff; }
+
+.fusion-main-menu .current-menu-ancestor > a, .fusion-main-menu .current-menu-item > a, .fusion-main-menu .current-menu-parent > a, .fusion-main-menu .current_page_item > a { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
+
+.index-menu-contact-link a { background-color: #fff !important; color: #333 !important; }
+
+.index-menu-contact-link a .menu-text { color: #333 !important; }
+
+.index-menu-contact-link:hover a { border-color: #22a2d7 !important; background-color: #22a2d7 !important; color: #fff !important; }
+
+.index-menu-contact-link:hover a .menu-text { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
+
+.fusion-secondary-menu ul li { background: #fdd835; }
+
+.fusion-secondary-menu ul li a { color: #000; font-size: rem(18); }
+
+.fusion-secondary-menu ul li:hover { background: #22a2d7; }
+
+.fusion-secondary-menu ul li:hover a { color: #fff; }
+
+.index-content-box .fusion-column-wrapper h3 { text-align: center; font-size: 28px; line-height: 1.5; margin-top: 0; }
+
+#index-flip-boxes .flip-boxes .flip-box-back { padding: 24px 16px; }
+
+.our-doctors-bio-box .image { padding-bottom: 25px; }
+
+#cross-bio-box { min-height: 235px; }
+
+#friedman-bio-box { min-height: 235px; }
 
 .header-font { font-family: "Raleway"; }
 
@@ -63,34 +91,6 @@
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner { margin: 0 !important; }
 
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner p { margin-bottom: 8px; }
-
-.fusion-secondary-main-menu { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; }
-
-.fusion-main-menu > ul > li > a { padding: 2px 8px; }
-
-.fusion-main-menu > ul > li > a:hover { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
-
-.fusion-main-menu .sub-menu li a:hover { color: #fff; }
-
-.fusion-main-menu .current-menu-ancestor > a, .fusion-main-menu .current-menu-item > a, .fusion-main-menu .current-menu-parent > a, .fusion-main-menu .current_page_item > a { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
-
-.index-menu-contact-link a { background-color: #fff !important; color: #333 !important; }
-
-.index-menu-contact-link a .menu-text { color: #333 !important; }
-
-.index-menu-contact-link:hover a { border-color: #22a2d7 !important; background-color: #22a2d7 !important; color: #fff !important; }
-
-.index-menu-contact-link:hover a .menu-text { border-color: #22a2d7; background-color: #22a2d7; color: #fff !important; }
-
-.fusion-secondary-menu ul li { background: #fdd835; }
-
-.fusion-secondary-menu ul li a { color: #000; font-size: rem(18); }
-
-.fusion-secondary-menu ul li:hover { background: #22a2d7; }
-
-.fusion-secondary-menu ul li:hover a { color: #fff; }
-
-.fusion-copyright-notice { color: #000; }
 
 .shadow-1 { -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
 

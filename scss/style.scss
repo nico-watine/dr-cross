@@ -6,14 +6,14 @@
 // Functions
 @import 'functions/_functions.scss';
 
+// Elements
+@import 'elements/_elements.scss';
+
 // Pages
 @import 'pages/_pages.scss';
 
-@import 'blocks/_header.scss';
+// Legacy import method
 @import 'components/_typography.scss';
 @import 'components/_misc.scss';
 @import 'components/_flip-boxes.scss';
-@import 'blocks/_nav-main.scss';
-@import 'blocks/_nav-top.scss';
-@import 'blocks/_footer.scss';
 @import 'components/_utility-classes.scss';
