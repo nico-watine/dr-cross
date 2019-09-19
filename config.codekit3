@@ -73,10 +73,10 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/css/style-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"/header-custom.php": {
 		"cB": 0,
@@ -546,8 +546,8 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/style.css",
-		"oF": 1,
-		"oS": 2,
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"/scss/var/_var-box-shadow.scss": {
