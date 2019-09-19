@@ -64,14 +64,6 @@
 
 #friedman-bio-box { min-height: 235px; }
 
-.header-font { font-family: "Raleway"; }
-
-.body-font { font-family: "PTSansRegular", Arial, Helvetica, sans-serif; font-weight: normal; }
-
-.underlined { text-decoration: underline; }
-
-.underlined:hover { text-decoration: none; }
-
 .fusion-testimonials.clean .author { font-size: 12px; line-height: 18px; letter-spacing: 2px; }
 
 .fusion-header-v4 .fusion-header { padding-top: 10px; padding-bottom: 15px; }
