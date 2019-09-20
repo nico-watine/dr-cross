@@ -45,7 +45,7 @@
           box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37) !important; }
 
 .fusion-main-menu > ul > li > a {
-  padding: 2px 8px; }
+  padding: 0.125rem 0.5rem; }
   .fusion-main-menu > ul > li > a:hover {
     border-color: #22a2d7;
     background-color: #22a2d7;
