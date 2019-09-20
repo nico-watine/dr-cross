@@ -88,19 +88,19 @@
       color: #fff; }
 
 .fusion-testimonials.clean .author {
-  font-size: 12px;
-  line-height: 18px;
-  letter-spacing: 2px; }
+  font-size: 0.75rem;
+  line-height: 1.125rem;
+  letter-spacing: 0.125rem; }
 
 .fusion-header-v4 .fusion-header {
-  padding-top: 10px;
-  padding-bottom: 15px; }
+  padding-top: 0.625rem;
+  padding-bottom: 0.9375rem; }
 
 .tab-link .fusion-tab-heading {
   color: #fff !important; }
 
 .tab-link:hover {
-  border-top: 3px solid #115598 !important; }
+  border-top: 0.1875rem solid #115598 !important; }
   .tab-link:hover .fusion-tab-heading {
     color: #000 !important; }
 

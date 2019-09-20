@@ -1,12 +1,12 @@
 .fusion-testimonials.clean .author {
-	font-size: 12px;
-	line-height: 18px;
-	letter-spacing: 2px;
+	font-size: rem-calc(12);
+	line-height: rem-calc(18);
+	letter-spacing: rem-calc(2);
 }
 
 .fusion-header-v4 .fusion-header {
-	padding-top: 10px;
-	padding-bottom: 15px;
+	padding-top: rem-calc(10);
+	padding-bottom: rem-calc(15);
 }
 
 .tab-link {
@@ -15,7 +15,7 @@
 	}
 
 	&:hover {
-		border-top: 3px solid $dark-blue !important;
+		border-top: rem-calc(3) solid $dark-blue !important;
 
 		.fusion-tab-heading {
 			color: #000 !important;
