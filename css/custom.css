@@ -114,11 +114,11 @@
     .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-front {
       -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
               box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-      padding: 0 0 16px; }
+      padding: 0 0 1rem; }
       .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-front .flip-box-front-inner {
         margin-top: 0 !important; }
         .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-front .flip-box-front-inner .flip-box-image img {
-          max-width: 360px;
+          max-width: 22.5rem;
           width: 100%;
           height: auto; }
     .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back {
@@ -127,7 +127,7 @@
       .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner {
         margin: 0 !important; }
         .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner p {
-          margin-bottom: 8px; }
+          margin-bottom: 0.5rem; }
 
 .header-font {
   font-family: "Raleway"; }
