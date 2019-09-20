@@ -1,4 +1,4 @@
-$max-955: 'only screen and (max-width : 955px)';
+$maxWidth-955: 'only screen and (max-width : 955px)';
 
 .fusion-secondary-main-menu {
 	border-bottom: 5px solid #22a2d7 !important;
@@ -9,7 +9,7 @@ $max-955: 'only screen and (max-width : 955px)';
 	background-position: center 0 !important;
 	border-bottom: 3px solid #22a2d7 !important;
 
-	@media #{$max-955} {
+	@media #{$maxWidth-955} {
 		background-image: none !important;
 	}
 }
@@ -42,7 +42,7 @@ $max-955: 'only screen and (max-width : 955px)';
 	}
 }
 
-@media #{$max-955} {
+@media #{$maxWidth-955} {
 	.fusion-logo {
 		height: 120px !important;
 	}
