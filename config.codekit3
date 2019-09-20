@@ -68,13 +68,13 @@
 		"oAP": "/cosmetic-services.html",
 		"oF": 0
 		},
-	"/css/style.css": {
+	"/css/custom.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "/css/style-min.css",
+		"oAP": "/css/custom-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -120,6 +120,19 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/scss/custom.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/custom.css",
+		"oF": 0,
+		"oS": 2,
+		"uL": 1
 		},
 	"/scss/elements/_elements.scss": {
 		"aP": 1,
@@ -533,19 +546,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/scss/pages/css/_our-doctors.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/style.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/style.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
