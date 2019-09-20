@@ -131,7 +131,7 @@
 		"oA": 0,
 		"oAP": "/css/custom.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 2,
 		"uL": 1
 		},
 	"/scss/elements/_elements.scss": {
