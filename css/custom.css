@@ -187,6 +187,9 @@
 .border-radius-100 {
   border-radius: 100%; }
 
+.border-rounded {
+  border-radius: 5000px !important; }
+
 .border-1-black {
   border: 0.0625rem solid #000; }
 
