@@ -2,13 +2,13 @@
   color: #000; }
 
 .fusion-secondary-main-menu {
-  border-bottom: 5px solid #22a2d7 !important; }
+  border-bottom: 0.3125rem solid #22a2d7 !important; }
 
 .fusion-header {
-  background-size: 780px auto;
+  background-size: 48.75rem auto;
   background-position: center 0 !important;
-  border-bottom: 3px solid #22a2d7 !important; }
-  @media only screen and (max-width: 955px) {
+  border-bottom: 0.1875rem solid #22a2d7 !important; }
+  @media only screen and (max-width: 59.688rem) {
     .fusion-header {
       background-image: none !important; } }
 
@@ -17,25 +17,25 @@
   color: #444 !important; }
 
 #header-medical-logos {
-  margin-top: 10px; }
+  margin-top: 0.625rem; }
   #header-medical-logos img {
-    height: 70px;
+    height: 4.375rem;
     width: auto;
-    margin-right: 6px; }
+    margin-right: 0.375rem; }
   #header-medical-logos img#aao {
     display: block;
-    margin-bottom: 10px; }
+    margin-bottom: 0.625rem; }
 
-@media only screen and (max-width: 955px) {
+@media only screen and (max-width: 59.688rem) {
   .fusion-logo {
-    height: 120px !important; }
+    height: 7.5rem !important; }
   .fusion-header-content-3-wrapper {
     position: relative;
-    top: -45px; }
+    top: -2.8125rem; }
   #header-medical-logos {
     margin-top: 0; }
     #header-medical-logos img {
-      height: 45px;
+      height: 2.8125rem;
       width: auto; }
     #header-medical-logos img#aao {
       display: initial; } }
