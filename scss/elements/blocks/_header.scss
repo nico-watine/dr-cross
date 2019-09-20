@@ -1,15 +1,15 @@
-$max-955: 'only screen and (max-width : 955px)';
+$maxWidth-955: 'only screen and (max-width : 59.688rem)';
 
 .fusion-secondary-main-menu {
-	border-bottom: 5px solid #22a2d7 !important;
+	border-bottom: rem-calc(5) solid #22a2d7 !important;
 }
 
 .fusion-header {
-	background-size: 780px auto;
+	background-size: rem-calc(780) auto;
 	background-position: center 0 !important;
-	border-bottom: 3px solid #22a2d7 !important;
+	border-bottom: rem-calc(3) solid #22a2d7 !important;
 
-	@media #{$max-955} {
+	@media #{$maxWidth-955} {
 		background-image: none !important;
 	}
 }
@@ -19,44 +19,36 @@ $max-955: 'only screen and (max-width : 955px)';
 	color: #444 !important;
 }
 
-#content-3-search-box {
-	// position: relative;
-	// top: -40px;
-	// left: 290px;
-}
-
 #header-medical-logos {
-	// position: relative;
-	// top: 30px;
-	margin-top: 10px;
+	margin-top: rem-calc(10);
 
 	img {
-		height: 70px;
+		height: rem-calc(70);
 		width: auto;
-		margin-right: 6px;
+		margin-right: rem-calc(6);
 	}
 
 	img#aao {
 		display: block;
-		margin-bottom: 10px;
+		margin-bottom: rem-calc(10);
 	}
 }
 
-@media #{$max-955} {
+@media #{$maxWidth-955} {
 	.fusion-logo {
-		height: 120px !important;
+		height: rem-calc(120) !important;
 	}
 
 	.fusion-header-content-3-wrapper {
 		position: relative;
-		top: -45px;
+		top: rem-calc(-45);
 	}
 
 	#header-medical-logos {
 		margin-top: 0;
 
 		img {
-			height: 45px;
+			height: rem-calc(45);
 			width: auto;
 		}
 

@@ -2,7 +2,7 @@
 	.fusion-column-wrapper {
 		h3 {
 			text-align: center;
-			font-size: 28px;
+			font-size: rem-calc(28);
 			line-height: 1.5;
 			margin-top: 0;
 		}
@@ -13,7 +13,7 @@
 #index-flip-boxes {
 	.flip-boxes {
 		.flip-box-back {
-			padding: 24px 16px;
+			padding: rem-calc(24) rem-calc(16);
 		}
 	}
 }

@@ -6,14 +6,14 @@
 
 		.flip-box-front {
 			box-shadow: $z-1;
-			padding: 0 0 16px;
+			padding: 0 0 rem-calc(16);
 
 			.flip-box-front-inner {
 				margin-top: 0 !important;
 
 				.flip-box-image {
 					img {
-						max-width: 360px;
+						max-width: rem-calc(360);
 						width: 100%;
 						height: auto;
 					}
@@ -28,7 +28,7 @@
 				margin: 0 !important;
 
 				p {
-					margin-bottom: 8px;
+					margin-bottom: rem-calc(8);
 				}
 			}
 		}
