@@ -610,6 +610,14 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/snippets/blocks/footer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/snippets/blocks/footer.html",
+		"oF": 0
+		},
 	"/snippets/page-title.html": {
 		"cB": 0,
 		"ft": 8192,
