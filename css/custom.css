@@ -159,6 +159,7 @@
   -webkit-box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
           box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   padding: 0 0 1rem;
+  overflow: hidden;
 }
 
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-front .flip-box-front-inner {
