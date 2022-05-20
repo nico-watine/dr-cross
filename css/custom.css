@@ -1288,9 +1288,10 @@
 }
 
 #index-flip-boxes .fusion-flip-boxes .flip-box-inner-wrapper .flip-box-front .flip-box-front-inner .flip-box-image img {
-  max-width: 22.5rem;
   width: 100%;
-  height: auto;
+  max-height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 #index-flip-boxes .fusion-flip-boxes .flip-box-inner-wrapper .flip-box-back {
