@@ -48,7 +48,7 @@
 
 					p {
 						margin-bottom: 8px !important;
-						font-size: 18px !important;
+						font-size: 20px !important;
 					}
 
 					a:hover {
@@ -66,5 +66,21 @@
 	h2 {
 		color: #fff !important;
 		font-size: 30px !important;
+	}
+
+	.content-container {
+		color: #fff !important;
+		font-size: 20px !important;
+		line-height: 1.6 !important;
+	}
+
+	a.fusion-read-more-button {
+		border-radius: rem-calc(20) !important;
+		padding: rem-calc(15 30) !important;
+
+		span.fusion-button-text {
+			font-size: rem-calc(20) !important;
+			line-height: 1 !important;
+		}
 	}
 }

@@ -172,6 +172,10 @@
   color: #fff;
 }
 
+a.hover-underline:hover {
+  text-decoration: underline;
+}
+
 .margin-0,
 .margin-0 * {
   margin: 0 !important;
@@ -1310,7 +1314,7 @@
 
 #index-flip-boxes .fusion-flip-boxes .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner p {
   margin-bottom: 8px !important;
-  font-size: 18px !important;
+  font-size: 20px !important;
 }
 
 #index-flip-boxes .fusion-flip-boxes .flip-box-inner-wrapper .flip-box-back .flip-box-back-inner a:hover {
@@ -1324,6 +1328,22 @@
 .index-content-box-link h2 {
   color: #fff !important;
   font-size: 30px !important;
+}
+
+.index-content-box-link .content-container {
+  color: #fff !important;
+  font-size: 20px !important;
+  line-height: 1.6 !important;
+}
+
+.index-content-box-link a.fusion-read-more-button {
+  border-radius: 1.25rem !important;
+  padding: 0.9375rem 1.875rem !important;
+}
+
+.index-content-box-link a.fusion-read-more-button span.fusion-button-text {
+  font-size: 1.25rem !important;
+  line-height: 1 !important;
 }
 
 .our-doctors-bio-box .image {
