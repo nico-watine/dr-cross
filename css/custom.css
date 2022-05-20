@@ -1,7 +1,3 @@
-.fusion-copyright-notice {
-  color: #000;
-}
-
 .fusion-secondary-main-menu {
   border-bottom: 0.3125rem solid #22a2d7 !important;
 }
@@ -163,6 +159,7 @@
   -webkit-box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
           box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   padding: 0 0 1rem;
+  overflow: hidden;
 }
 
 .fusion-flip-boxes.no-bottom-margin .flip-box-inner-wrapper .flip-box-front .flip-box-front-inner {
@@ -203,6 +200,14 @@
 
 .underlined:hover {
   text-decoration: none;
+}
+
+.text-color-white {
+  color: #fff;
+}
+
+.text-color-white * {
+  color: #fff;
 }
 
 .margin-0,
@@ -1303,6 +1308,15 @@
 
 #index-flip-boxes .flip-boxes .flip-box-back {
   padding: 1.5rem 1rem;
+}
+
+.index-content-box-link {
+  color: #fff !important;
+}
+
+.index-content-box-link h2 {
+  color: #fff !important;
+  font-size: 30px !important;
 }
 
 .our-doctors-bio-box .image {
