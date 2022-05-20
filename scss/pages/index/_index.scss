@@ -11,9 +11,50 @@
 
 
 #index-flip-boxes {
-	.flip-boxes {
-		.flip-box-back {
-			padding: rem-calc(24) rem-calc(16);
+	.fusion-flip-boxes {
+		margin-bottom: 0;
+
+		.flip-box-inner-wrapper {
+			min-height: none;
+
+			.flip-box-front {
+				box-shadow: $z-1;
+				padding: 0 0 rem-calc(16);
+				overflow: hidden;
+
+				.flip-box-front-inner {
+					margin-top: 0 !important;
+
+					.flip-box-image {
+						img {
+							max-width: rem-calc(360);
+							width: 100%;
+							height: auto;
+						}
+					}
+				}
+			}
+
+			.flip-box-back {
+				box-shadow: $z-1;
+				padding: 24px 16px;
+
+				.flip-box-back-inner {
+					margin: 0 !important;
+
+					h3 {
+						font-size: 20px !important;
+					}
+
+					p {
+						margin-bottom: rem-calc(8);
+					}
+
+					a:hover {
+						text-decoration: underline;
+					}
+				}
+			}
 		}
 	}
 }
