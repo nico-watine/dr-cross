@@ -202,6 +202,14 @@
   text-decoration: none;
 }
 
+.text-color-white {
+  color: #fff;
+}
+
+.text-color-white * {
+  color: #fff;
+}
+
 .margin-0,
 .margin-0 * {
   margin: 0 !important;
@@ -1300,6 +1308,15 @@
 
 #index-flip-boxes .flip-boxes .flip-box-back {
   padding: 1.5rem 1rem;
+}
+
+.index-content-box-link {
+  color: #fff !important;
+}
+
+.index-content-box-link h2 {
+  color: #fff !important;
+  font-size: 30px !important;
 }
 
 .our-doctors-bio-box .image {
