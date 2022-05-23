@@ -114,6 +114,14 @@
       "oAP" : "\/header.php",
       "oF" : 0
     },
+    "\/index-avada-builder.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 2,
+      "oAP" : "\/index-avada-builder.txt",
+      "oF" : 0
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
